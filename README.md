@@ -1,0 +1,4 @@
+This course teaches us how to build decentralized applications (Dapps) on the Ethereum blockchain and Avalanche using the Solidity programming language. The course teaches how to create smart contracts, connect them to wallets, build a user interface, and deploy your Dapps.
+In this course, Ethereum developers can build innovative, decentralized applications capable of smart contract automation and peer-to-peer payment facilitation.
+his program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has a single function that sets the value of the variable by checking some constrains as given in program to calculate the weight of the object by taking in the mass of the object. As we all know the formulae of i.e. Weight = mass * gravity. This program uses the concept of Functions and Error handling.
+Author : Shivam Kumar
